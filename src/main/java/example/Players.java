@@ -6,7 +6,6 @@ package example;
 public class Players {
 
 
-
     public static void player1 (NewBoard board, Players player, int pit) {
 
             int stones = board.getStones(pit);

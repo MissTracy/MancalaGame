@@ -5,7 +5,7 @@ import java.util.Scanner;
 /** created new board and player objects and looped through the game.
  * added exception to cash outofbound error */
 
-public class main {
+public class PlayTheGame {
 
     public static <e> void main(String[] args) {
 

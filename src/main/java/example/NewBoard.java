@@ -8,7 +8,7 @@ parameter. It initializes the board array with six stones in each pit except for
  The getBoard() method returns the board array.**/
 
 public class NewBoard {
-        private final int[] board;
+        public final int[] board;
 
         public NewBoard() {
             board = new int[14];
